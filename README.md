@@ -18,7 +18,7 @@
 
 ### 🚀 Projects & Ideas
 
-- **🌲 Nyxis Minecraft Server**  [CANCELLED]
+- **🌲 Nyxis Minecraft Server  [CANCELLED]**
   A survival world powered by lore: a magical tree named *Ghaena*, political corruption, and dark energy brewing...  
   _Work in Progress_ - Lore, server design & custom mechanics.  
 
